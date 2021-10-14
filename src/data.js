@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "React",
     description:
       "Web app used to check the popularity of repos according to the language and also for github users to battle each other for popularity. This was built with react and tailwindcss.",
-    image: "https://media.giphy.com/media/7oLfp633nwDJjdtTrs/giphy.gif",
+    image: "https://media.giphy.com/media/230qd4PsnyrF0NXsvw/giphy.gif",
     link: "https://github-popularity.netlify.app/",
   },
   {
