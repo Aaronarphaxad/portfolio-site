@@ -1,5 +1,13 @@
 export const projects = [
   {
+    title: "Github profile",
+    subtitle: "github",
+    description:
+      "Github profile link",
+    image: "https://media.giphy.com/media/nbzbDSIPvXQ7EhxRUy/giphy.gif",
+    link: "https://github.com/Aaronarphaxad/",
+  },
+  {
     title: "Github popularity",
     subtitle: "React",
     description:
