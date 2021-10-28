@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: "Github profile",
-    subtitle: "github",
+    title: "Typing game",
+    subtitle: "React",
     description:
-      "Github profile link",
-    image: "https://media.giphy.com/media/nbzbDSIPvXQ7EhxRUy/giphy.gif",
-    link: "https://github.com/Aaronarphaxad/",
+      "Typing Game built with react. Utilized a dictionary API",
+    image: "https://media.giphy.com/media/8BENiI2XvlYMvqqZ6l/giphy.gif",
+    link: "https://typing-gamez.netlify.app/",
   },
   {
     title: "Github popularity",
@@ -14,6 +14,14 @@ export const projects = [
       "Web app used to check the popularity of repos according to the language and also for github users to battle each other for popularity. This was built with react and tailwindcss.",
     image: "https://media.giphy.com/media/230qd4PsnyrF0NXsvw/giphy.gif",
     link: "https://github-popularity.netlify.app/",
+  },
+  {
+    title: "Github profile",
+    subtitle: "github",
+    description:
+      "Github profile link",
+    image: "https://media.giphy.com/media/nbzbDSIPvXQ7EhxRUy/giphy.gif",
+    link: "https://github.com/Aaronarphaxad/",
   },
   {
     title: "SocialNetwork44",
