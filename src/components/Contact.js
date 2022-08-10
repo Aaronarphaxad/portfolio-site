@@ -9,22 +9,6 @@ export default function Contact() {
       .join("&");
   }
 
-  // function handleSubmit(e) {
-  //   // e.preventDefault();
-  //   fetch("/", {
-  //     method: "POST",
-  //     headers: { "Content-Type": "application/x-www-form-urlencoded" },
-  //     body: encode({ "form-name": "contact", name, email, message }),
-  //   })
-  //     .then(() => {
-  //       alert("Message sent!");
-  //       document.getElementById("name").value = "";
-  //       document.getElementById("email").value = "";
-  //       document.getElementById("message").value = "";
-  //     })
-  //     .catch((error) => alert(error));
-  // }
-
   return (
     <section id="contact" className="relative pb-5">
       <div className="container px-5 py-10 mx-auto flex sm:flex-nowrap flex-wrap">
@@ -66,6 +50,7 @@ export default function Contact() {
         </div>
         <form
           method="post"
+          data-netlify-recaptcha="true"
           // onSubmit={handleSubmit}
           name="contact"
           className="lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0"
@@ -123,6 +108,7 @@ export default function Contact() {
               className="w-full bg-gray-200 focus:border-gray-800 dark:bg-gray-800 rounded border border-gray-700 dark:focus:border-indigo-500 focus:ring-2 dark:focus:ring-indigo-900 h-32 text-base outline-none text-gray-100 py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out"
             />
           </div>
+          <div data-netlify-recaptcha="true"></div>
           <button
             type="submit"
             className="text-white bg-green-400 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg"
