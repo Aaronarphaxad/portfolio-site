@@ -9,21 +9,21 @@ export default function Contact() {
       .join("&");
   }
 
-  function handleSubmit(e) {
-    // e.preventDefault();
-    fetch("/", {
-      method: "POST",
-      headers: { "Content-Type": "application/x-www-form-urlencoded" },
-      body: encode({ "form-name": "contact", name, email, message }),
-    })
-      .then(() => {
-        alert("Message sent!");
-        document.getElementById("name").value = "";
-        document.getElementById("email").value = "";
-        document.getElementById("message").value = "";
-      })
-      .catch((error) => alert(error));
-  }
+  // function handleSubmit(e) {
+  //   // e.preventDefault();
+  //   fetch("/", {
+  //     method: "POST",
+  //     headers: { "Content-Type": "application/x-www-form-urlencoded" },
+  //     body: encode({ "form-name": "contact", name, email, message }),
+  //   })
+  //     .then(() => {
+  //       alert("Message sent!");
+  //       document.getElementById("name").value = "";
+  //       document.getElementById("email").value = "";
+  //       document.getElementById("message").value = "";
+  //     })
+  //     .catch((error) => alert(error));
+  // }
 
   return (
     <section id="contact" className="relative pb-5">
