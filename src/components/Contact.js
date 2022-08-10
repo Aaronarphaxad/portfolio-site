@@ -76,7 +76,7 @@ export default function Contact() {
           name="contact"
           className="lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0"
         >
-          <input type="hidden" name="form-name" value="contact" />
+          {/* <input type="hidden" name="form-name" value="contact" /> */}
 
           <h2 className="dark:text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
             Hire Me
