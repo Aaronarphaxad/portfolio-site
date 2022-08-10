@@ -15,7 +15,14 @@
     <title>Aaron Omale</title>
   </head>
   <body>
-    <form name="test" netlify netlify-honeypot="bot-field" hidden>
+    <form
+      name="test"
+      data-netlify="true"
+      netlify
+      netlify-honeypot="bot-field"
+      data-netlify-recaptcha="true"
+      hidden
+    >
       <input type="text" name="name" />
       <input type="email" name="email" />
       <textarea name="message"></textarea>
