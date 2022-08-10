@@ -1,11 +1,46 @@
 export const projects = [
   {
+    title: "Gifts Paddy",
+    subtitle: "React, MUI",
+    description: "Website to send gifts to Nigeria from anywhere in the world",
+    image: "https://media.giphy.com/media/sVDsEfKEGoBzVuSlrR/giphy.gif",
+    link: "https://giftspaddy.com/",
+  },
+  {
+    title: "Bagley Tools",
+    subtitle: "React",
+    description: "Copier software for Traders Central",
+    image: "https://media.giphy.com/media/RivWXbRJ48RgrQyvTE/giphy.gif",
+    link: "https://tools-stage.traderscentral.com/",
+  },
+  {
+    title: "Mojos palace",
+    subtitle: "HTML/CSS",
+    description: "Restaurant for food vendor",
+    image: "https://media.giphy.com/media/9kFcNjxuNXphYBnCPv/giphy.gif",
+    link: "https://mojospalace.netlify.app/",
+  },
+  {
+    title: "Traders Central main site",
+    subtitle: "Nextjs",
+    description: "Main website for Traders Central",
+    image: "https://media.giphy.com/media/vsxQzMVA1kOsd7rfqc/giphy.gif",
+    link: "https://www.traderscentral.com/",
+  },
+  {
     title: "Typing game",
     subtitle: "React",
-    description:
-      "Typing Game built with react. Utilized a dictionary API",
+    description: "Typing Game built with react. Utilized a dictionary API",
     image: "https://media.giphy.com/media/8BENiI2XvlYMvqqZ6l/giphy.gif",
     link: "https://typing-gamez.netlify.app/",
+  },
+  {
+    title: "Authentication Page",
+    subtitle: "React",
+    description:
+      "Authentication app that serves as a bridge for Traders Central ecosystem",
+    image: "https://media.giphy.com/media/4B5JWu5XTDwGsXREjQ/giphy.gif",
+    link: "https://eco.traderscentral.com/",
   },
   {
     title: "Github popularity",
@@ -15,14 +50,7 @@ export const projects = [
     image: "https://media.giphy.com/media/230qd4PsnyrF0NXsvw/giphy.gif",
     link: "https://github-popularity.netlify.app/",
   },
-  {
-    title: "Github profile",
-    subtitle: "github",
-    description:
-      "Github profile link",
-    image: "https://media.giphy.com/media/nbzbDSIPvXQ7EhxRUy/giphy.gif",
-    link: "https://github.com/Aaronarphaxad/",
-  },
+
   {
     title: "SocialNetwork44",
     subtitle: "Django (Python, javascript)",
@@ -31,14 +59,7 @@ export const projects = [
     image: "https://media.giphy.com/media/7oLfp633nwDJjdtTrs/giphy.gif",
     link: "https://socialnetwork44.herokuapp.com/",
   },
-  {
-    title: "Rookie Hub",
-    subtitle: "Flask (Python, javascript)",
-    description:
-      "Rookiehub, a website to test rookies on their knowledge of html, css and javascript. Final Project for CS50x (Introduction to computer science) course. Built with Flask.",
-    image: "https://media.giphy.com/media/XpUBtl1Zt6e5Zk9Juy/giphy.gif",
-    link: "https://rookiehub.herokuapp.com/",
-  },
+
   {
     title: "Auctions App",
     subtitle: "Django (Python)",
@@ -58,11 +79,25 @@ export const projects = [
   {
     title: "Meme Generator",
     subtitle: "React",
-    description:
-      "Simple meme generator that consume data from a meme API.",
+    description: "Simple meme generator that consume data from a meme API.",
     image: "https://media.giphy.com/media/8bYjMKLpfweYco5oMY/giphy.gif",
     link: "https://memegenerator23.netlify.app/",
-  }
+  },
+  {
+    title: "Rookie Hub",
+    subtitle: "Flask (Python, javascript)",
+    description:
+      "Rookiehub, a website to test rookies on their knowledge of html, css and javascript. Final Project for CS50x (Introduction to computer science) course. Built with Flask.",
+    image: "https://media.giphy.com/media/XpUBtl1Zt6e5Zk9Juy/giphy.gif",
+    link: "https://rookiehub.herokuapp.com/",
+  },
+  {
+    title: "Github profile",
+    subtitle: "github",
+    description: "Github profile link",
+    image: "https://media.giphy.com/media/nbzbDSIPvXQ7EhxRUy/giphy.gif",
+    link: "https://github.com/Aaronarphaxad/",
+  },
 ];
 
 export const testimonials = [
@@ -73,14 +108,28 @@ export const testimonials = [
     name: "Uyo Joy",
     company: "Owner of Mojos palace",
   },
+  {
+    quote:
+      "Very good work from Aaron building front-end for our internal tool for text analysis. He pays attention to detail",
+    image: "https://i.stack.imgur.com/34AD2.jpg",
+    name: "Anonymous",
+    company: "Neomo",
+  },
 ];
 
 export const skills = [
+  "HTML",
+  "CSS (CSS3, SCSS, Bootstrap/Tailwind)",
   "JavaScript",
   "Python",
+  "Typescript",
   "React",
+  "Nextjs",
+  "Redux",
   "Django",
   "Flask",
   "Git",
-  "Tailwind",
+  "Testing (Jest/cypress)",
+  "CI/CD",
+  "Email templating",
 ];
