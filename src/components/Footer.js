@@ -6,7 +6,7 @@ import linkedIn from "../Assets/images/linkedin.png";
 export default function Footer() {
   return (
     <div className="flex justify-center gap-2 py-2 bg-gray-200 dark:bg-gray-800 dark:bg-opacity-40">
-      <div className="flex justify-center align-center gap-2 rounded bg-gray-300">
+      <div className="flex justify-center align-center gap-3 rounded bg-gray-300">
         <a href="https://www.instagram.com/arphyy">
           <img src={instagram} alt="instagram" />
         </a>

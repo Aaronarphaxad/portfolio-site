@@ -30,7 +30,7 @@ export default function Projects() {
             <a
               href={project.link}
               key={project.image}
-              className="m-2"
+              className="m-2 border border-gray-700 rounded"
               style={styling}
             >
               <div className="flex relative w-full h-full rounded">
