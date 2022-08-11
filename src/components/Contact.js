@@ -29,10 +29,7 @@ export default function Contact() {
               <h2 className="title-font font-semibold dark:text-white tracking-widest text-xs">
                 ADDRESS
               </h2>
-              <p className="mt-1">
-                Excellence Street, Arab road, Kubwa. <br />
-                Abuja, NG.
-              </p>
+              <p className="mt-1">Abuja, NG.</p>
             </div>
             <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
