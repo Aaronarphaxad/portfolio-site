@@ -16,7 +16,7 @@ export const projects = [
   {
     title: "Mojos palace",
     subtitle: "HTML/CSS",
-    description: "Restaurant for food vendor",
+    description: "Menu site for food vendor",
     image: "https://media.giphy.com/media/9kFcNjxuNXphYBnCPv/giphy.gif",
     link: "https://mojospalace.netlify.app/",
   },
