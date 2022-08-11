@@ -16,7 +16,8 @@ export default function About() {
             web applications to bring about a seamless web experience for users.
             I possess well-developed skills in Agile methodology as well as
             necessary soft skills to help thrive in collaborative work
-            environments. Art enthusiast, football, volleyball lover.
+            environments. Self-development enthusiast, football, volleyball
+            lover.
           </p>
           <div className="flex justify-center">
             <a
