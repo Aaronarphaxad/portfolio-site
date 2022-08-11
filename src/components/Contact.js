@@ -107,7 +107,6 @@ export default function Contact() {
               className="w-full bg-gray-200 focus:border-gray-800 dark:bg-gray-800 rounded border border-gray-700 dark:focus:border-indigo-500 focus:ring-2 dark:focus:ring-indigo-900 h-32 text-base outline-none text-gray-100 py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out"
             />
           </div>
-          <div data-netlify-recaptcha="true"></div>
           <button
             type="submit"
             className="text-white bg-green-400 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg"
