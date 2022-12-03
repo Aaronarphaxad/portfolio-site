@@ -21,7 +21,7 @@ export default function Projects() {
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
             Using modern technologies, I have built various interactive
-            websites/web apps. Hover to read description, click to see a live
+            web/mobile apps. Hover to read description, click to see a live
             demo.
           </p>
         </div>
@@ -29,6 +29,7 @@ export default function Projects() {
           {projects.map((project) => (
             <a
               href={project.link}
+              target="_blank"
               key={project.image}
               className="m-2 border border-gray-700 rounded"
               style={styling}

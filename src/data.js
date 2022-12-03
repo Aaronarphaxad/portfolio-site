@@ -1,5 +1,13 @@
 export const projects = [
   {
+    title: "Dermaland Mobile App",
+    subtitle: "React Native, Expo",
+    description:
+      "Skin care app to remind users to do their skin care routine and guide them through it",
+    image: "https://media.giphy.com/media/hhj3mQP02v7wYG7ekv/giphy.gif",
+    link: "https://apps.apple.com/ng/app/dermaland/id6444657859",
+  },
+  {
     title: "Gifts Paddy",
     subtitle: "React, MUI",
     description: "Website to send gifts to Nigeria from anywhere in the world",
@@ -25,7 +33,7 @@ export const projects = [
     subtitle: "Nextjs",
     description: "Main website for Traders Central",
     image: "https://media.giphy.com/media/vsxQzMVA1kOsd7rfqc/giphy.gif",
-    link: "https://www.traderscentral.com/",
+    link: "https://www.traderseco.com/",
   },
   {
     title: "Typing game",
@@ -124,6 +132,7 @@ export const skills = [
   "Python",
   "Typescript",
   "React",
+  "React Native",
   "Nextjs",
   "Redux",
   "Django",
@@ -132,4 +141,5 @@ export const skills = [
   "Testing (Jest/cypress)",
   "CI/CD",
   "Email templating",
+  "AWS Amplify/S3",
 ];
