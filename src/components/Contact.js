@@ -29,7 +29,7 @@ export default function Contact() {
               <h2 className="title-font font-semibold dark:text-white tracking-widest text-xs">
                 ADDRESS
               </h2>
-              <p className="mt-1">Surrey, BC</p>
+              <p className="mt-1">Vancouver, British Columbia</p>
             </div>
             <div className="lg:w-2/3 px-6 mt-4 lg:mt-0">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
@@ -44,7 +44,7 @@ export default function Contact() {
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 PHONE
               </h2>
-              <p className="leading-relaxed">(236)863-5191</p>
+              <p className="leading-relaxed">+1(236)863-5191</p>
             </div>
           </div>
         </div>
