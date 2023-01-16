@@ -19,7 +19,7 @@ export const projects = [
     subtitle: "React",
     description: "Copier software for Traders Central",
     image: "https://media.giphy.com/media/RivWXbRJ48RgrQyvTE/giphy.gif",
-    link: "https://tools-stage.traderscentral.com/",
+    link: "https://bagley-tools.netlify.app/dashboard-portfolio",
   },
   {
     title: "Mojos palace",
