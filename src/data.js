@@ -142,4 +142,7 @@ export const skills = [
   "CI/CD",
   "Email templating",
   "AWS Amplify/S3",
+  "ArcGIS",
+  "Research",
+  "Database management"
 ];
