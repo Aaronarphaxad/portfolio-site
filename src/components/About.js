@@ -11,13 +11,19 @@ export default function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            A skilled software engineer well-versed in leveraging cutting-edge
-            technologies in building high-performance, accessible, and scalable
-            web applications to bring about a seamless web experience for users.
-            I possess well-developed skills in Agile methodology as well as
-            necessary soft skills to help thrive in collaborative work
-            environments. Self-development enthusiast, football, volleyball
-            lover.
+            I am a Software Developer with over two years of experience in
+            developing, maintaining, and upgrading web and mobile applications.
+            I possess a comprehensive understanding of Agile methodology, data
+            analysis, and management, automation, testing, and research. My
+            expertise lies in delivering highly performant, accessible, and
+            scalable applications that meet the evolving needs of businesses. I
+            have a proven track record of leading cross-functional teams,
+            providing creative solutions to complex business challenges, and
+            fostering a collaborative work environment. My passion for
+            technology, drive for continuous learning, and excellent leadership
+            qualities make me an asset to any team. I am fluent in both written
+            and spoken English and thrive in a fast-paced work environment where
+            I can continuously challenge myself and grow professionally.
           </p>
           <div className="flex justify-center">
             <a
