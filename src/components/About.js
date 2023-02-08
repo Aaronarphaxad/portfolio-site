@@ -11,7 +11,7 @@ export default function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            I am a Software Developer with over two years of experience in
+            I am a Software Developer with two years of experience in
             developing, maintaining, and upgrading web and mobile applications.
             I possess a comprehensive understanding of Agile methodology, data
             analysis, and management, automation, testing, and research. My
