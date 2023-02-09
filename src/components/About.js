@@ -11,19 +11,17 @@ export default function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            I am a Software Developer with two years of experience in
-            developing, maintaining, and upgrading web and mobile applications.
-            I possess a comprehensive understanding of Agile methodology, data
-            analysis, and management, automation, testing, and research. My
-            expertise lies in delivering highly performant, accessible, and
-            scalable applications that meet the evolving needs of businesses. I
-            have a proven track record of leading cross-functional teams,
-            providing creative solutions to complex business challenges, and
-            fostering a collaborative work environment. My passion for
-            technology, drive for continuous learning, and excellent leadership
-            qualities make me an asset to any team. I am fluent in both written
-            and spoken English and thrive in a fast-paced work environment where
-            I can continuously challenge myself and grow professionally.
+            Software Developer with 2 years of experience in developing,
+            maintaining, and upgrading web and mobile applications. Adept in
+            Agile methodology, data analysis, and management, automation,
+            testing, and research. Possess a strong ability to deliver highly
+            performant, accessible, and scalable applications that meet the
+            evolving needs of businesses. Proven track record of leading
+            cross-functional teams, providing creative solutions to complex
+            business challenges, and a great team collaborator. Passionate about
+            technology, continuously learning and possess excellent
+            communication skills. Fluent in English and thrive in fast-paced
+            work environments where growth and challenge are present.
           </p>
           <div className="flex justify-center">
             <a
