@@ -1,5 +1,12 @@
 export const projects = [
   {
+    title: "Fullstack App",
+    subtitle: "Next.js, MUI",
+    description:
+      "Fullstack app to perform CRUD operations. An internal tool to manage projects.",
+    image: "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDc1MjNhMWM0NWM2ZGQ3MjU3OTZiYmM1NzYyOTk0NWZjYjBhMjAyYiZjdD1n/TxVcaPs087lrfqeYci/giphy.gif",
+    link: "https://aaron-omale-is-24-full-stack-competition-req97073.vercel.app/",
+  }, {
     title: "Dermaland Mobile App",
     subtitle: "React Native, Expo",
     description:
