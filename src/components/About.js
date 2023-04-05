@@ -11,17 +11,12 @@ export default function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Software Developer with 2 years of experience in developing,
-            maintaining, and upgrading web and mobile applications. Adept in
-            Agile methodology, data analysis, and management, automation,
-            testing, and research. Possess a strong ability to deliver highly
-            performant, accessible, and scalable applications that meet the
-            evolving needs of businesses. Proven track record of leading
-            cross-functional teams, providing creative solutions to complex
-            business challenges, and a great team collaborator. Passionate about
-            technology, continuously learning and possess excellent
-            communication skills. Fluent in English and thrive in fast-paced
-            work environments where growth and challenge are present.
+            Software Developer in web and mobile application development, adept
+            in Agile methodology, data analysis, automation, testing, and
+            research. Possess a proven track record of delivering highly
+            performant, scalable, and accessible applications that meet business
+            needs. Passionate about technology and continuously learning with
+            excellent communication skills.
           </p>
           <div className="flex justify-center">
             <a
