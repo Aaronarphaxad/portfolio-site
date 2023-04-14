@@ -6,6 +6,14 @@ export const projects = [
       "Fullstack app to perform CRUD operations. An internal tool to manage projects.",
     image: "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDc1MjNhMWM0NWM2ZGQ3MjU3OTZiYmM1NzYyOTk0NWZjYjBhMjAyYiZjdD1n/TxVcaPs087lrfqeYci/giphy.gif",
     link: "https://aaron-omale-is-24-full-stack-competition-req97073.vercel.app/",
+  },  
+  {
+    title: "Bump to Parenthood",
+    subtitle: "Next.js, Sanity",
+    description:
+      "Website for registered nurse to help new parents learn about parenthood",
+    image: "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNiN2JjZTYxOTdhODBmNzY4MzViODBmYmU0MzY4ZjI2ZGQyNzMzNCZjdD1n/LVXKvFaPBTvYu90WbZ/giphy.gif",
+    link: "https://www.bumptoparenthood.com",
   }, 
   {
     title: "E-commerce Store",
