@@ -1,4 +1,6 @@
 import React from "react";
+import resume from "../Assets/files/Aaron Omale Resume.pdf";
+import img from "../Assets/images/cartoon.webp";
 
 export default function About() {
   return (
@@ -11,19 +13,23 @@ export default function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Software Developer in web and mobile application development, adept
-            in Agile methodology, data analysis, automation, testing, and
-            research. Possess a proven track record of delivering highly
-            performant, scalable, and accessible applications that meet business
-            needs. Passionate about technology and continuously learning with
-            excellent communication skills.
+            Enthusiastic and results-driven Full Stack Developer, offering a
+            diverse skill set honed through hands-on experience in developing
+            innovative web and mobile applications. Demonstrated expertise in a
+            wide array of technologies, including React, React Native,
+            TypeScript, and Node.js. Passionate about continuous learning, I
+            thrive on staying ahead of industry trends to deliver cutting-edge
+            solutions. Committed to empowering communities and organizations
+            through technology.
           </p>
           <div className="flex justify-center">
             <a
-              href="#contact"
+              href={resume}
+              download="Aaron_Resume"
               className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg"
+              target="_blank"
             >
-              Work With Me
+              Download Resume
             </a>
             <a
               href="#projects"
@@ -37,7 +43,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded"
             alt="hero"
-            src="./coding.svg"
+            src={img}
           />
         </div>
       </div>

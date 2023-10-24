@@ -4,25 +4,28 @@ export const projects = [
     subtitle: "Next.js, MUI",
     description:
       "Fullstack app to perform CRUD operations. An internal tool to manage projects.",
-    image: "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDc1MjNhMWM0NWM2ZGQ3MjU3OTZiYmM1NzYyOTk0NWZjYjBhMjAyYiZjdD1n/TxVcaPs087lrfqeYci/giphy.gif",
+    image:
+      "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDc1MjNhMWM0NWM2ZGQ3MjU3OTZiYmM1NzYyOTk0NWZjYjBhMjAyYiZjdD1n/TxVcaPs087lrfqeYci/giphy.gif",
     link: "https://aaron-omale-is-24-full-stack-competition-req97073.vercel.app/",
-  },  
+  },
   {
     title: "Bump to Parenthood",
     subtitle: "Next.js, Sanity",
     description:
       "Website for registered nurse to help new parents learn about parenthood",
-    image: "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNiN2JjZTYxOTdhODBmNzY4MzViODBmYmU0MzY4ZjI2ZGQyNzMzNCZjdD1n/LVXKvFaPBTvYu90WbZ/giphy.gif",
+    image:
+      "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNiN2JjZTYxOTdhODBmNzY4MzViODBmYmU0MzY4ZjI2ZGQyNzMzNCZjdD1n/LVXKvFaPBTvYu90WbZ/giphy.gif",
     link: "https://www.bumptoparenthood.com",
-  }, 
+  },
   {
     title: "E-commerce Store",
     subtitle: "Next.js, Sanity, Stripe",
     description:
       "E-commerce website with cart features and stripe payment integration",
-    image: "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWQ1YmQ3YWY5ZTQyYzE3OGY5MjJmNGIwMDQ0Yzc1ODA3ODgzYThlMiZjdD1n/1wDhySAw2wNEl7SXaE/giphy.gif",
+    image:
+      "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWQ1YmQ3YWY5ZTQyYzE3OGY5MjJmNGIwMDQ0Yzc1ODA3ODgzYThlMiZjdD1n/1wDhySAw2wNEl7SXaE/giphy.gif",
     link: "https://afromart.vercel.app/",
-  }, 
+  },
   {
     title: "Dermaland Mobile App",
     subtitle: "React Native, Expo",
@@ -150,23 +153,24 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "HTML",
-  "CSS (CSS3, SCSS, Bootstrap/Tailwind)",
   "JavaScript",
   "Python",
+  "Java",
+  "C#",
   "Typescript",
   "React",
+  "Angular",
   "React Native",
   "Nextjs",
   "Redux",
-  "Django",
-  "Flask",
   "Git",
   "Testing (Jest/cypress)",
   "CI/CD",
   "Email templating",
   "AWS Amplify/S3",
-  "ArcGIS",
+  "Team Management",
+  "Problem solving",
   "Research",
-  "Database management"
+  "MySQL",
+  "Bash/PowerShell",
 ];

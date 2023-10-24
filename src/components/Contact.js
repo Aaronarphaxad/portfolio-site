@@ -37,9 +37,9 @@ export default function Contact() {
               </h2>
               <a
                 className="text-green-400 leading-relaxed mr-6"
-                href="mailto:aaronarphaxad@gmail.com"
+                href="mailto:omale.aaron@gmail.com"
               >
-                aaronarphaxad@gmail.com
+                omale.aaron@gmail.com
               </a>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 PHONE

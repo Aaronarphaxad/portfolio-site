@@ -10,7 +10,7 @@ export default function Footer() {
         <a href="https://www.instagram.com/arphyy">
           <img src={instagram} alt="instagram" />
         </a>
-        <a href="https://www.twitter.com/arphy_dev">
+        <a href="https://www.twitter.com/arphaxad09">
           <img src={twitter} alt="twitter" />
         </a>
         <a href="https://www.linkedin.com/in/aaron-omale-7bb6b5156/">
